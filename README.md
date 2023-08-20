@@ -22,7 +22,8 @@ Simon Game is a classic memory game that challenges players to remember and repe
 3. After each successful round, the sequence gets longer and more challenging.
 4. Be careful! If you make a mistake, the game ends.
 5. The game keeps track of your highest level.
-##demo: (https://kunalbhat55.github.io/Simon-Game/)
+##
+Demo: (https://kunalbhat55.github.io/Simon-Game/)
 
 ## Features
 
