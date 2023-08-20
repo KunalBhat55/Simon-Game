@@ -22,6 +22,7 @@ Simon Game is a classic memory game that challenges players to remember and repe
 3. After each successful round, the sequence gets longer and more challenging.
 4. Be careful! If you make a mistake, the game ends.
 5. The game keeps track of your highest level.
+##demo: (https://kunalbhat55.github.io/Simon-Game/)
 
 ## Features
 
@@ -41,7 +42,7 @@ To run the Simon Game on your local machine, follow these steps:
 ## Usage
 
 1. Turn on your speakers or use headphones for the best experience.
-2. Press the "Start" button to begin the game.
+2. Press any key to begin the game.
 3. Watch and listen to the sequence of lights and sounds.
 4. Repeat the sequence by clicking on the colors in the same order.
 5. If you make a mistake, the game will show your score and allow you to start over.
@@ -49,12 +50,6 @@ To run the Simon Game on your local machine, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find a bug or want to enhance the game, feel free to open an issue or submit a pull request. Here's how you can do it:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-new-feature`
-3. Make your changes and commit them: `git commit -m "Add new feature"`
-4. Push to the branch: `git push origin feature-new-feature`
-5. Open a pull request.
 
 ## License
 
